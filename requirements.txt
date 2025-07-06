@@ -5,6 +5,7 @@ iprogress
 ipykernel
 lxml
 matplotlib
+nbformat
 pandas
 plotly
 requests

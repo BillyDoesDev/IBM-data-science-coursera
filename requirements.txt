@@ -3,10 +3,14 @@ bs4
 html5lib 
 iprogress
 ipykernel
+ipython-sql
 lxml
 matplotlib
 nbformat
 pandas
 plotly
+prettytable
 requests
+scikit-learn
+seaborn
 yfinance

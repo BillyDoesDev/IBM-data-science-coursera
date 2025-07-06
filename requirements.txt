@@ -1,5 +1,6 @@
 black
 bs4
+dash
 html5lib 
 iprogress
 ipykernel

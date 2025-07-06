@@ -1,6 +1,11 @@
 black
+bs4
+html5lib 
 iprogress
 ipykernel
+lxml
 matplotlib
 pandas
+plotly
+requests
 yfinance
